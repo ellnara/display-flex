@@ -1,0 +1,19 @@
+.card {
+  border-radius: 20px;
+  border: 1px solid black;
+  height: 200px;
+  margin-top: 50px;
+}
+.col-3 {
+  padding: 20px;
+  width: calc(20%);
+}
+.row {
+  flex-wrap: wrap;
+  display: flex;
+}
+img {
+  width: 270px;
+  height: 200px;
+  border-radius: 20px;
+}
